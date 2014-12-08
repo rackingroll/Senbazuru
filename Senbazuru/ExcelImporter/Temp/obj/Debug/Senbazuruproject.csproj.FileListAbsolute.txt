@@ -1,0 +1,9 @@
+D:\Work Space\Senbazuruproject\Senbazuruproject\bin\Debug\Senbazuruproject.exe.config
+D:\Work Space\Senbazuruproject\Senbazuruproject\bin\Debug\Senbazuruproject.exe
+D:\Work Space\Senbazuruproject\Senbazuruproject\bin\Debug\Senbazuruproject.pdb
+D:\Work Space\Senbazuruproject\Senbazuruproject\obj\Debug\Senbazuruproject.csprojResolveAssemblyReference.cache
+D:\Work Space\Senbazuruproject\Senbazuruproject\obj\Debug\Senbazuruproject.exe
+D:\Work Space\Senbazuruproject\Senbazuruproject\obj\Debug\Senbazuruproject.pdb
+D:\Work Space\In4DataImporter\ExcelImporter\Temp\bin\Debug\Senbazuruproject.exe.config
+D:\Work Space\In4DataImporter\ExcelImporter\Temp\obj\Debug\Senbazuruproject.exe
+D:\Work Space\In4DataImporter\ExcelImporter\Temp\obj\Debug\Senbazuruproject.pdb

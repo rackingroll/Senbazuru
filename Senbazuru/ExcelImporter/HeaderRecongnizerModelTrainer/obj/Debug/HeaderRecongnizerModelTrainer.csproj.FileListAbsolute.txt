@@ -1,0 +1,8 @@
+D:\Work Space\In4DataImporter\ExcelImporter\HeaderRecongnizerModelTrainer\bin\Debug\HeaderRecongnizerModelTrainer.exe.config
+D:\Work Space\In4DataImporter\ExcelImporter\HeaderRecongnizerModelTrainer\obj\Debug\HeaderRecongnizerModelTrainer.csprojResolveAssemblyReference.cache
+D:\Work Space\In4DataImporter\ExcelImporter\HeaderRecongnizerModelTrainer\bin\Debug\HeaderRecongnizerModelTrainer.exe
+D:\Work Space\In4DataImporter\ExcelImporter\HeaderRecongnizerModelTrainer\bin\Debug\HeaderRecongnizerModelTrainer.pdb
+D:\Work Space\In4DataImporter\ExcelImporter\HeaderRecongnizerModelTrainer\bin\Debug\HirarchicalExtraction.exe
+D:\Work Space\In4DataImporter\ExcelImporter\HeaderRecongnizerModelTrainer\bin\Debug\HirarchicalExtraction.pdb
+D:\Work Space\In4DataImporter\ExcelImporter\HeaderRecongnizerModelTrainer\obj\Debug\HeaderRecongnizerModelTrainer.exe
+D:\Work Space\In4DataImporter\ExcelImporter\HeaderRecongnizerModelTrainer\obj\Debug\HeaderRecongnizerModelTrainer.pdb
